@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MsVee55
 - ❤️ I’m interested in Programming
 - 👩‍💻 I’m currently learning to be a Software Engineer
-- 💞️ I’m looking to collaborate on major projects in future
+- 💞️ I’m looking forward to collaborating on major projects in future
 - 💌📨 You can reach me on precious.v.augustine@gmail.com
 
 <!---
